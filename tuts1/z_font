@@ -1,0 +1,11 @@
+https://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778
+
+
+Practice with VI, only to maintain the basics skills in an urgency situation.
+Quick tips:
+
+press ESC to switch the modes.
+:i - insertion mode
+:w - write the changes in the file
+:q - quit
+:wq - write and quit
